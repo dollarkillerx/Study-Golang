@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b95c3298-43a1-4eec-9bd1-d5b01f15eecf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/class1/udp/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class1/udp/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class1/udp_broadcast/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class1/udp_broadcast/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class2/c1/err_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class2/c2/err_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c1/goruniner_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c10/pool_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c2/share_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c3/async_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c4/async_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c5/async_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c6/one_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c7/first_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c8/cc_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class3/c9/opj_pool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/err/err.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="322">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class3/c10/pool_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///opt/go/src/time/time.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="640" column="35" lean-forward="true" selection-start-line="640" selection-start-column="35" selection-end-line="640" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>199</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/opt/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/err/err.go" />
+        <option value="$PROJECT_DIR$/class1/udp/server.go" />
+        <option value="$PROJECT_DIR$/class1/udp/client.go" />
+        <option value="$PROJECT_DIR$/class1/udp_broadcast/client.go" />
+        <option value="$PROJECT_DIR$/class1/udp_broadcast/server.go" />
+        <option value="$PROJECT_DIR$/class2/c1/error.go" />
+        <option value="$PROJECT_DIR$/class2/c1/err_test.go" />
+        <option value="$PROJECT_DIR$/class2/c2/err_test.go" />
+        <option value="$PROJECT_DIR$/class3/c1.go" />
+        <option value="$PROJECT_DIR$/class3/c1/goruniner_test.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/class3/c2/share_test.go" />
+        <option value="$PROJECT_DIR$/class3/c3/async_test.go" />
+        <option value="$PROJECT_DIR$/class3/c4/async_test.go" />
+        <option value="$PROJECT_DIR$/class3/c5/async_test.go" />
+        <option value="$PROJECT_DIR$/class3/c6/one_test.go" />
+        <option value="$PROJECT_DIR$/class3/c7/first_test.go" />
+        <option value="$PROJECT_DIR$/class3/c8/cc_test.go" />
+        <option value="$PROJECT_DIR$/class3/c9/opj_pool.go" />
+        <option value="$PROJECT_DIR$/class3/c10/pool_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Study-Golang.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="24" />
+    <option name="width" value="1282" />
+    <option name="height" value="999" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Study-Golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Golang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Golang" type="462c0819:PsiDirectoryNode" />
+              <item name="class3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-Golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-Golang" type="462c0819:PsiDirectoryNode" />
+              <item name="class3" type="462c0819:PsiDirectoryNode" />
+              <item name="c10" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/class3/c5" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/class3/c5" />
+      <recent name="$PROJECT_DIR$/class3/c4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestAll in Study-Golang/class3/c8">
+    <configuration name="TestAll in Study-Golang/class3/c8" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Study-Golang" />
+      <working_directory value="$PROJECT_DIR$/class3/c8" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Study-Golang/class3/c8" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAll$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFirst in Study-Golang/class3/c7" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Study-Golang" />
+      <working_directory value="$PROJECT_DIR$/class3/c7" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Study-Golang/class3/c7" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestFirst$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOnce in Study-Golang/class3/c6" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Study-Golang" />
+      <working_directory value="$PROJECT_DIR$/class3/c6" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Study-Golang/class3/c6" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestOnce$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestService in Study-Golang/class3/c4" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Study-Golang" />
+      <working_directory value="$PROJECT_DIR$/class3/c4" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Study-Golang/class3/c4" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestService$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestService in Study-Golang/class3/c5" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Study-Golang" />
+      <working_directory value="$PROJECT_DIR$/class3/c5" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Study-Golang/class3/c5" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestService$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestAll in Study-Golang/class3/c8" />
+        <item itemvalue="Go Test.TestFirst in Study-Golang/class3/c7" />
+        <item itemvalue="Go Test.TestOnce in Study-Golang/class3/c6" />
+        <item itemvalue="Go Test.TestService in Study-Golang/class3/c5" />
+        <item itemvalue="Go Test.TestService in Study-Golang/class3/c4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestFirst_in_Study-Golang_class3_c7 - 2019.06.18 at 18h 18m 23s.xml">
+      <configuration name="TestFirst in Study-Golang/class3/c7" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFirst_in_Study-Golang_class3_c7 - 2019.06.18 at 18h 18m 28s.xml">
+      <configuration name="TestFirst in Study-Golang/class3/c7" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFirst_in_Study-Golang_class3_c7 - 2019.06.18 at 18h 18m 36s.xml">
+      <configuration name="TestFirst in Study-Golang/class3/c7" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFirst_in_Study-Golang_class3_c7 - 2019.06.18 at 18h 18m 42s.xml">
+      <configuration name="TestFirst in Study-Golang/class3/c7" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFirst_in_Study-Golang_class3_c7 - 2019.06.18 at 18h 19m 36s.xml">
+      <configuration name="TestFirst in Study-Golang/class3/c7" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFirst_in_Study-Golang_class3_c7 - 2019.06.18 at 18h 20m 04s.xml">
+      <configuration name="TestFirst in Study-Golang/class3/c7" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFirst_in_Study-Golang_class3_c7 - 2019.06.18 at 18h 20m 34s.xml">
+      <configuration name="TestFirst in Study-Golang/class3/c7" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestFirst_in_Study-Golang_class3_c7 - 2019.06.18 at 18h 20m 41s.xml">
+      <configuration name="TestFirst in Study-Golang/class3/c7" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAll_in_Study-Golang_class3_c8 - 2019.06.18 at 18h 26m 08s.xml">
+      <configuration name="TestAll in Study-Golang/class3/c8" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestAll_in_Study-Golang_class3_c8 - 2019.06.18 at 18h 27m 13s.xml">
+      <configuration name="TestAll in Study-Golang/class3/c8" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="942" y="81" width="1282" height="999" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20502432" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2178899" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/err/err.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class1/udp/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#95#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class1/udp/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="e#95#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class1/udp_broadcast/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#95#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class1/udp_broadcast/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/c1/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/c1/err_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="18" selection-start-line="18" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class2/c2/err_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c1/goruniner_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="14" selection-start-line="14" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#93#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/go/src/sync/rwmutex.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c2/share_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+          <folding>
+            <element signature="e#93#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/go/src/time/sleep.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="156" column="16" lean-forward="true" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c3/async_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="14" selection-start-line="14" selection-end-line="37" />
+          <folding>
+            <element signature="e#93#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/go/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="916" selection-start-line="916" selection-end-line="916" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c4/async_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/go/src/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="228" column="5" selection-start-line="228" selection-start-column="5" selection-end-line="228" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c5/async_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c6/one_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#93#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c8/cc_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#93#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c7/first_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" selection-start-line="15" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="322">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/go/src/time/time.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="640" column="35" lean-forward="true" selection-start-line="640" selection-start-column="35" selection-end-line="640" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c9/opj_pool.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class3/c10/pool_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
