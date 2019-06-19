@@ -12,7 +12,7 @@ import (
 	"testing"
 )
 
-func TestCcS(t *testing.T)  {
+func TestCcS(t *testing.T) {
 	pool := &sync.Pool{
 		New: func() interface{} {
 			return 0
